@@ -1,0 +1,21 @@
+pytorch_diffusion/pretrained_models/DiT-XL-2-512x512.pt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Large model files
+*.msgpack
+*.pt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dummy data
+/dummy_data/
+
+# Results directory
+/results/
+
+# Script for creating dummy images
+/create_dummy_images.py
